@@ -1,5 +1,5 @@
 [package]
-name = "YouWizard"
+name = "hello"
 version = "0.1.0"
 authors = ["ubuntu"]
 edition = "2018"
