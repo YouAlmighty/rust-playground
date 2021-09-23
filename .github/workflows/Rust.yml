@@ -1,4 +1,4 @@
-name: Rust1
+name: Rust
 
 on:
   push:
