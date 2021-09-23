@@ -1,4 +1,4 @@
-name: Rust3
+name: Rust
 
 on:
   push:
@@ -16,4 +16,4 @@ jobs:
     - name: Build
       run: cargo build --verbose
     - name: Run
-      run: cargo test --verbose
+      run: cargo run
