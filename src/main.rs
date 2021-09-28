@@ -4,9 +4,9 @@ fn main() {
   let b: i32 = 25;
  
   let sum = return_sum(a, b);
-  println!("a is = {}", a);
-  println!("b is = {}", b);
-  println!("The sum of a &  b is = {}", sum);
+  println!("a = {}", a);
+  println!("b = {}", b);
+  println!("The sum of a & b ia {}", sum);
 }
  
 fn return_sum(i: i32, j: i32) -> i32 {
