@@ -1,9 +1,11 @@
 fn main() {
   println!("Hello, world!!!");
-  let a      = 5;
+  let a      = 12;
   let b: i32 = 25;
  
-  let sum = return_sum(a,  b);
+  let sum = return_sum(a, b);
+  println!("a is = {}", a);
+  println!("b is = {}", b);
   println!("The sum of a &  b is = {}", sum);
 }
  
